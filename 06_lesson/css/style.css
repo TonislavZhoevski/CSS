@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
+
+/* 
+
+Typography is the way that text is arranged and presented.
+
+*/
+
+body {
+    padding: 10%;
+    font-size: 2rem;
+}
+
+/* input, button {
+    font: inherit;
+} */
+
+p {
+    /* text-decoration: none; >>> that is usefull when we want to get rid off the underline by text comming with some link. */
+    line-height: 1.5;
+}
