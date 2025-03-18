@@ -208,3 +208,27 @@ a:active {
   scroll-margin-top: 6.5rem;
   margin: var(--MARGIN);
 }
+
+.main__article:first-child {
+  margin-top: 1rem;
+}
+
+.main__article:last-child {
+  min-height: calc(100vh - 20rem);
+}
+
+/* || ABOUT */
+
+.about__trivia {
+  margin: var(--MARGIN);
+}
+
+.about__trivia-answer {
+  margin-top: 1rem;
+}
+
+/* || CONTACT */
+
+.contact__h2 {
+  
+}
